@@ -17,10 +17,7 @@ RetroCar Showroom is not just a car rental service; it's a journey through the a
 ## Getting Started
 
 npm run build
+
 npm start
 
-
-## Acknowledgments
-
-Thank anyone who helped with the project but isn't a direct contributor. This could include libraries, tutorials, or any other resources that were valuable during development.
 
